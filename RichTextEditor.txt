@@ -1,0 +1,14 @@
+import { EditorState } from 'draft-js';
+import { Editor } from 'react-draft-wysiwyg';
+import 'react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
+import { useState } from 'react';
+
+export default function RichTextEditor() {
+  const [editorState, setEditorState] = useState(EditorState.createEmpty());
+
+  return (
+    <div style={{ border: '1px solid gray', padding: '10px' }}>
+      <Editor editorState={editorState} onEditorStateChange={setEditorState} />
+    </div>
+  );
+}
