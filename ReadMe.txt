@@ -114,4 +114,4 @@ This project is licensed under the **MIT License**.
 ## ✨ Author
 **[Your Name]** - React Developer
 
-🌐 [GitHub Profile](https://github.com/yourprofile) | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+🌐 [GitHub Profile](https://github.com/SrikanthNayak1) | 🔗 [LinkedIn](https://www.linkedin.com/in/srikanthsabavath/)
