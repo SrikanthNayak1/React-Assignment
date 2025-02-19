@@ -2,7 +2,7 @@ Live React Project Assignment Link
 
 https://cerebrascoder.com/p/311563
 
-Screenshot (17).png
+https://github.com/SrikanthNayak1/React-Assignment/blob/main/Screenshot%20(17).png?raw=true
 
 
 This project is a React-based web application featuring a counter, user data form, and rich text editors, along with smooth animations, data persistence, and routing.
